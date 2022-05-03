@@ -1,1 +1,25 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+button {
+  width: 100px;
+}
+
+body {
+  background: rgb(218, 214, 214);
+}
+
+#uno {
+  margin-top: 150px;
+}
+
+input {
+  width: 100px;
+  align-content: center;
+}
+#inputgroup {
+  margin-top: 50px;
+  margin-left: 400px;
+}
+span {
+  margin-right: 10px;
+}
